@@ -1,6 +1,6 @@
  # Start
  You decide to go out to shop for supplies however you encounter a gang of people trying to kidnap the girl! What will you do?
 
-[Help the girl escape from the gang](die.md)
+[Help the girl escape from the gang](died.md)
 
 [You decide to run away like a coward](died2.md)

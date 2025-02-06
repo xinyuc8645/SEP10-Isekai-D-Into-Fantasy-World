@@ -3,4 +3,4 @@
 
  Continue wandering?
 
- [Safetly comes first, get out of the forest and return to the town instead?](wise.md)
+ [Safetly comes first, get out of the forest and return to the town instead?](reincarnated.md)

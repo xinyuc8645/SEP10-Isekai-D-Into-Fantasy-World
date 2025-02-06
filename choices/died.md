@@ -2,3 +2,4 @@
 
 Your life flashes before you, praying to get reborn again
 
+You try to take the knife out stabbed in your heart, but that only made your bleeding more faster

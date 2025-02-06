@@ -3,4 +3,4 @@ You chosed Reincarnation! The goddess that rule over reincarnation decides to gr
 
 [Accept her blessing?](reincarnated.md)
 
-Decline her blessing?....
+[Decline her blessing?....](noble.md)

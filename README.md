@@ -1,6 +1,6 @@
 # Begin your journey? A successful one? Or a failure one?
 
-[Click here to be-g-in](https://xinyuc8645.github.io/sep10-isekai-d-into-fantasy-world/start.md)
+[Click here to be-g-in](https://xinyuc8645.github.io/sep10-isekai-d-into-fantasy-world/start.html)
 
 Plan/Picture of our planning for this project
 

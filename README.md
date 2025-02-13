@@ -4,4 +4,4 @@
 
 Plan/Picture of our planning for this project
 
-With the collaboration of [Xin Yu](https://github.io/xinyuc8645) [Leo](https://github.io/leol2351) [Sabrina](https://github.io/sabrinar8811)
+With the collaboration of [Xin Yu](https://github.com/xinyuc8645) [Leo](https://github.com/leol2351) [Sabrina](https://github.com/sabrinar8811)
